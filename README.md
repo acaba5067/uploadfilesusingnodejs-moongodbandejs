@@ -1,4 +1,4 @@
-# uploafilesusingnodejsandmoongodb
+# uploadfilesusingnodejsandmoongodb
 usingnodejsandmongodb
 to run this program install the packages using in package.json in the adress of dependencies
 run using command npm install "the name of package"
